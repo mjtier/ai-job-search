@@ -1,0 +1,9 @@
+# Lever board slugs to search when --company is omitted.
+# One slug per line; '#' starts a comment. Find a slug in the board URL,
+# e.g. https://jobs.lever.co/palantir -> palantir
+# Replace these samples with your own target employers.
+palantir
+spotify
+netflix
+kayak
+attentive

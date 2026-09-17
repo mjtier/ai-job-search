@@ -1,0 +1,9 @@
+# Ashby board slugs to search when --company is omitted.
+# One slug per line; '#' starts a comment. Find a slug in the board URL,
+# e.g. https://jobs.ashbyhq.com/ramp -> ramp
+# Replace these samples with your own target employers.
+ramp
+openai
+linear
+notion
+vanta

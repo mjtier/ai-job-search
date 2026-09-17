@@ -1,0 +1,9 @@
+# Greenhouse board slugs to search when --company is omitted.
+# One slug per line; '#' starts a comment. Find a slug in the board URL,
+# e.g. https://boards.greenhouse.io/stripe -> stripe
+# Replace these samples with your own target employers.
+stripe
+databricks
+cloudflare
+gitlab
+reddit
